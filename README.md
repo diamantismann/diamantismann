@@ -97,4 +97,14 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.png?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diamantismann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.png?logo=X&logoColor=white)](https://twitter.com/diamantismann) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.png?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHqCDRwD5N9WvZF19LSFodQ)
+<a href="https://www.linkedin.com/in/diamantismann" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.png?logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://twitter.com/diamantismann" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.png?logo=twitter&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/channel/UCHqCDRwD5N9WvZF19LSFodQ" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.png?logo=YouTube&logoColor=white">
+</a>
